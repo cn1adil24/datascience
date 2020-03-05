@@ -1,0 +1,16 @@
+flask
+py2neo
+python-dateutil
+pandas
+nltk
+gensim
+pyLDAvis
+matplotlib
+seaborn
+tweet-preprocessor
+sklearn
+requests
+google-api-python-client
+scipy
+scikit-learn
+python-tk
